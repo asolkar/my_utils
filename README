@@ -1,0 +1,17 @@
+This is a collection of useful scripts I use in day-to-day work:
+
+conky_weather.pl
+  Pulls weather information from wunderground.com and displays it in a format
+  that can be used in conky
+
+delicious_to_base_format.pl
+  This script converts an exported Delicious Bookmarks file into a markup used
+  at http://st.mahesha.com/bs/. This markup is very similar to the Bookmarks
+  file used in browsers.
+
+google_bookmarks_to_base_format.pl
+  This script converts an exported Google Bookmarks file into a markup used at
+  http://st.mahesha.com/bs/. This markup is very similar to the Bookmarks file
+  used in browsers.
+
+
